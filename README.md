@@ -1,7 +1,7 @@
 - 👋 Hi, I’m khalid shaik
-- 👀 I’m interested in Artificial intelligence and Machine learning
+- 👀 I’m interested in Artificial intelligence and Machine learning,Data Analysis
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI&ML projects
+- 💞️ I’m looking to collaborate on AI&ML and Data analysis projects
 - 📫 How to reach me (khaalidshaikk@gmail.com)
 
 <!---
