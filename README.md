@@ -11,7 +11,7 @@ Database Management: SQLite, MySQL
 Data Visualization: Power BI dashboards, Matplotlib
 
 🔹 My Projects:
-
+ ----- Ai data Analysis
 🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
 
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
